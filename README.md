@@ -15,7 +15,7 @@ I would like to express my gratitude to the project’s principal investigator P
 
 1. Data cleaning by hand may needed due to possible anomalies in dataset.
 2. Re-implementation of BoVW models on new dataset with ablation study and application of SVM with intersection kernel as classifier
-3. Overall review of EE491
+3. Overall review of works of first semester
 4. Comparison of Image classification with convolutional neural networks
 5. Overview of transfer learning methods and outcomes of fine-tuning approaches as represented in Figure 5 on the dataset
 6. Processing time comparison of image classification models
