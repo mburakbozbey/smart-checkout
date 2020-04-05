@@ -7,7 +7,7 @@ Object recognition algorithms have become more robust in last decade with recent
     <img src="https://github.com/mburakbozbey/smart-checkout/blob/master/checkout.gif" alt="img">
  </p>
 
-## Acknownledgments
+## Acknowledgments
   
 I would like to express my gratitude to the project’s principal investigator Prof. Dr. Bülent Sankur and also Dr. Erdem Yörük, my research supervisors, for their patient guidance, encouragement and useful critiques of this research work through the semester.
 
